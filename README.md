@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm 李长傲（鲤coding） 👋
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lichangao1826"/>
 
 <!--
 **lichangao1826/lichangao1826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
